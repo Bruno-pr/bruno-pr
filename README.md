@@ -1,6 +1,6 @@
-# Heyy! 👋🏽
+## Heyy! 👋🏽
 
-## Im Bruno Soares 💻
+### Im Bruno Soares 💻
 
 
 
