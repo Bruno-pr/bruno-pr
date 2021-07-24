@@ -16,7 +16,7 @@
 
 
 
-#### Social networks 👇🏽
+#### Social Networks 👇🏽
 
 
    <a href="https://www.instagram.com/brunxsb/" target="_blank"><img src="https://img.shields.io/badge/-Bruno%20Soares-6633cc?style=flat-square&logo=instagram&logoColor=white" target="_blank"></a> 
