@@ -1,6 +1,6 @@
 ## Heyy! 👋🏽
 
-### i'm Bruno Soares 👨🏿‍💻
+### I'm Bruno Soares 👨🏿‍💻
 
 
 - 📚 System Analysis and Development.
