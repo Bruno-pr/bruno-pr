@@ -16,7 +16,7 @@
 
 #### Learning 💡
 
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_reactjs_icon_130205.png" alt="React" width="40" height="40" style="max-width:100%;"></img>-
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_reactjs_icon_130205.png" alt="React" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="bootstrap" width="40" height="40" style="max-width:100%;"></img>
 
 
