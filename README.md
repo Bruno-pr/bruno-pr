@@ -33,5 +33,5 @@
    <a href="mailto:brunoss.contato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-brunoss.contato@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/brunoss18/" target="_blank"><img src="https://img.shields.io/badge/-Bruno%20Soares-6633cc?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a>
 
-
+ ![Snake animation](https://github.com/Bruno-pr/bruno-pr/blob/output/github-contribution-grid-snake.svg)
 
