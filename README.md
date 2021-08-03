@@ -6,8 +6,7 @@
 - 📚 System Analysis and Development.
 - 📍 Brazil, São Paulo.
  <div>
-  <a href="https://github.com/Bruno-pr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-pr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-pr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
